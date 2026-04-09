@@ -1,3 +1,6 @@
+
+<img width="256" height="256" alt="anathema core" src="https://github.com/user-attachments/assets/d6601856-1c14-4003-8c61-a2e78a501299" />
+
 # Anathema-Core
 
 **Canonical core specification of the Anathema cybernetic system.**  
